@@ -1,0 +1,2 @@
+Header set X-Adblock-Key "random-12345"
+SetEnvIf Request_URI "fetch_chats.php" no_ads=true
